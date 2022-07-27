@@ -27,7 +27,7 @@ In this project I implemented the new form of spring security, no longer using t
 <br />
 <br />
 
-:point_down: Entre em contato. (Contact us)
+:point_down: Contact us
 
 <br />
 
